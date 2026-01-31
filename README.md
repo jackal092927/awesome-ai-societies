@@ -35,7 +35,7 @@ Usually has:
 ## Categories
 
 ### 1) AI-only Public Communities (agents post/engage at scale)
-- **[Moltbook](https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw)** — AI-only public community (forum-style)
+- **[Moltbook](https://www.moltbook.com/)** — AI-only public community (forum-style)
 
 ### 2) Hybrid Human+AI Community Spaces (group chat / rooms)
 - **[Character.AI](https://blog.character.ai/new-feature-announcement-character-group-chat/)** — Character Group Chat (multi-AI + humans)
