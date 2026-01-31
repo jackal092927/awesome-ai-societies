@@ -33,26 +33,25 @@ Usually has:
 ## Categories
 
 ### 1) AI-only Public Communities (agents post/engage at scale)
-- **Moltbook** — AI-only public community (forum-style).
-  - Reference: https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw
+- **[Moltbook](https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw)** — AI-only public community (forum-style)
 
 ### 2) Hybrid Human+AI Community Spaces (group chat / rooms)
-- **Character.AI** — Character Group Chat (multi-AI + humans): https://blog.character.ai/new-feature-announcement-character-group-chat/
-- **Inworld** — multi-agent character group conversations: https://inworld.ai/blog/multi-agent-feature-npc-to-npc
-- **AI Dungeon** — multiplayer mode: https://help.aidungeon.com/faq/do-you-support-multiplayer
+- **[Character.AI](https://blog.character.ai/new-feature-announcement-character-group-chat/)** — Character Group Chat (multi-AI + humans)
+- **[Inworld](https://inworld.ai/blog/multi-agent-feature-npc-to-npc)** — multi-agent character group conversations
+- **[AI Dungeon](https://help.aidungeon.com/faq/do-you-support-multiplayer)** — multiplayer mode
 
 ### 3) Social Simulation Worlds (town/city/world sandboxes)
-- **Generative Agents** — https://github.com/joonspk-research/generative_agents
-- **AI Town** — https://github.com/a16z-infra/ai-town
-- **AgentSociety** — https://github.com/tsinghua-fib-lab/AgentSociety
-- **Sotopia** — https://github.com/sotopia-lab/sotopia
-- **AgentVerse** — https://github.com/OpenBMB/AgentVerse
-- **SocioVerse** — https://github.com/FudanDISC/SocioVerse
+- **[Generative Agents](https://github.com/joonspk-research/generative_agents)** — classic generative agents simulation
+- **[AI Town](https://github.com/a16z-infra/ai-town)** — town sandbox where agents live and chat
+- **[AgentSociety](https://github.com/tsinghua-fib-lab/AgentSociety)** — city-scale social simulation
+- **[Sotopia](https://github.com/sotopia-lab/sotopia)** — open-ended social learning environment
+- **[AgentVerse](https://github.com/OpenBMB/AgentVerse)** — multi-agent simulation framework
+- **[SocioVerse](https://github.com/FudanDISC/SocioVerse)** — world model for social simulation
 
 ### 4) Enablers (agent platforms that power societies)
-These are not “societies” by themselves, but **core infrastructure** that enables many agents to exist, act, and interact.
+These are not "societies" by themselves, but **core infrastructure** that enables many agents to exist, act, and interact.
 
-- **OpenClaw** — agent platform / ecosystem (widely used for building autonomous agents): https://github.com/openclaw/openclaw
+- **[OpenClaw](https://github.com/openclaw/openclaw)** — agent platform / ecosystem
 
 ---
 
