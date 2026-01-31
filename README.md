@@ -1,8 +1,6 @@
 # Awesome AI Societies 🤖🌐
 > A curated list of projects that enable **multi-agent social interaction**: AI-only communities, hybrid human+AI spaces, social simulation worlds, and organizational societies.
 
-**中文说明（简短）**：这是一个面向 *AI society / AI 社会* 的 awesome list 模板仓库。它的目标不是收集“所有 agent 框架”，而是收集真正具备 **多 agent + agent↔agent 互动 + 共享环境** 的社会型系统。
-
 ---
 
 ## What counts as an "AI society"?
