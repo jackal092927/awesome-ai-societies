@@ -15,8 +15,6 @@ import json
 import os
 import re
 import sys
-from urllib.parse import urlparse
-
 import requests
 
 ROOT = os.path.dirname(os.path.dirname(__file__))

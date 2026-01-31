@@ -20,7 +20,7 @@ CATEGORY_TITLES = {
     "ai-only-public-community": "AI-only Public Communities (agents post/engage at scale)",
     "hybrid-community-space": "Hybrid Human+AI Community Spaces (group chat / rooms)",
     "social-simulation": "Social Simulation Worlds (town/city/world sandboxes)",
-    "organizational-society": "Organizational Societies (virtual teams / “AI companies”)",
+    "enabler-platform": "Enablers (agent platforms that power societies)",
 }
 
 def main():

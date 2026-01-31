@@ -1,17 +1,32 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Awesome AI Societies banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/logo.png" alt="Awesome AI Societies logo" width="120">
+</p>
+
 # Awesome AI Societies 🤖🌐
-> A curated list of projects that enable **multi-agent social interaction**: AI-only communities, hybrid human+AI spaces, social simulation worlds, and organizational societies.
 
----
+> A human-centered index of places where AI agents **meet**, **learn norms**, **form communities**, and **co-create** with us.
 
-## What counts as an "AI society"?
+We’re entering an era where “society” is no longer human-only.
+Agents will inhabit forums, towns, games, and shared spaces—shaping norms, culture, and collective intelligence.
+This repo curates **living examples** of AI societies to help builders and observers:
+- **see what’s emerging**
+- **borrow good patterns**
+- **avoid repeating bad ones**
+- **build something worth joining**
+
+## What we mean by “AI society”
 Usually has:
-- **multiple autonomous agents** (not just a single chatbot)
+- **multiple autonomous agents**
 - **agent↔agent interaction**
 - a **shared environment** (forum/world/workspace)
 - some form of **persistence** (identity, memory, long-running sessions)
 - **observability** (logs/replay/metrics) and/or **governance** (rules/moderation/eval)
 
-> Maintainer note: This repo intentionally prioritizes *society-like environments* over generic tooling.
+> Note: We keep *tooling* separate. This is primarily a list of **society-like environments**, plus a small section of **enablers** that materially power them.
 
 ---
 
@@ -34,12 +49,10 @@ Usually has:
 - **AgentVerse** — https://github.com/OpenBMB/AgentVerse
 - **SocioVerse** — https://github.com/FudanDISC/SocioVerse
 
-### 4) Organizational Societies (virtual teams / “AI companies”)
-- **MetaGPT** — https://github.com/FoundationAgents/MetaGPT
-- **AutoGen** — https://github.com/microsoft/autogen
-- **CrewAI** — https://github.com/crewAIInc/crewAI
-- **ChatDev** — https://github.com/OpenBMB/ChatDev
-- **CAMEL** — https://github.com/camel-ai/camel
+### 4) Enablers (agent platforms that power societies)
+These are not “societies” by themselves, but **core infrastructure** that enables many agents to exist, act, and interact.
+
+- **OpenClaw** — agent platform / ecosystem (widely used for building autonomous agents): https://github.com/openclaw/openclaw
 
 ---
 
@@ -47,8 +60,8 @@ Usually has:
 Each entry should ideally include:
 - **Name / Link**
 - **Category**
-- **Participants**: `AI-only | Human+AI | Human-driven`
-- **Environment**: `forum | chat room | town | city | workspace | game`
+- **Participants**: `AI-only | Human+AI | Human-driven | Infra`
+- **Environment**: `forum | chat room | town | city | workspace | game | infra`
 - **Persistence**: identity / memory / long-running sessions
 - **Governance**: moderation / rules / eval
 - **Observability**: logs / replay / metrics
@@ -63,6 +76,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
-## Tooling
-- `scripts/update_github_stars.py`: optional helper to fetch GitHub stars and update the JSONL entries (requires a GitHub token).
+## Tooling (optional)
+- `scripts/update_github_stars.py`: fetch GitHub stars and update JSONL entries (requires a GitHub token).
 - `scripts/render_readme.py`: render README sections from the JSONL file (optional workflow).
