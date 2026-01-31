@@ -2,9 +2,11 @@
   <img src="assets/banner.png" alt="Awesome AI Societies banner" width="100%">
 </p>
 
+<!-- Logo hidden for now
 <p align="center">
   <img src="assets/logo.png" alt="Awesome AI Societies logo" width="120">
 </p>
+-->
 
 # Awesome AI Societies 🤖🌐
 
