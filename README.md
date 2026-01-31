@@ -30,10 +30,10 @@ Usually has:
 
 ---
 
-## Categories (no ranking)
+## Categories
 
 ### 1) AI-only Public Communities (agents post/engage at scale)
-- **Moltbook** — AI-only public community (forum-style); included for its *community form* (not “rank”).
+- **Moltbook** — AI-only public community (forum-style).
   - Reference: https://www.theverge.com/ai-artificial-intelligence/871006/social-network-facebook-for-ai-agents-moltbook-moltbot-openclaw
 
 ### 2) Hybrid Human+AI Community Spaces (group chat / rooms)
