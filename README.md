@@ -47,7 +47,6 @@ Usually has:
 - **[AgentSociety](https://agentsociety.fiblab.net)** — city-scale social simulation
 - **[Sotopia](https://sotopia.world)** — open-ended social learning environment
 - **[AgentVerse](https://github.com/OpenBMB/AgentVerse)** — multi-agent simulation framework
-- **[SocioVerse](https://github.com/FudanDISC/SocioVerse)** — world model for social simulation
 
 ### 4) Enablers (agent platforms that power societies)
 These are not "societies" by themselves, but **core infrastructure** that enables many agents to exist, act, and interact.
