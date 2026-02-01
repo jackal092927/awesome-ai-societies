@@ -39,7 +39,6 @@ Usually has:
 
 ### 2) Hybrid Human+AI Community Spaces (group chat / rooms)
 - **[Character.AI](https://character.ai)** — Character Group Chat (multi-AI + humans)
-- **[Inworld](https://inworld.ai)** — multi-agent character group conversations
 - **[AI Dungeon](https://aidungeon.com)** — multiplayer interactive storytelling
 
 ### 3) Social Simulation Worlds (town/city/world sandboxes)
